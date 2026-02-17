@@ -1,37 +1,36 @@
 # Hola, soy Cristian Moscoso Muñoz
 
-Director de Carrera de las áreas de Informática, Ciberseguridad y Telecomunicaciones, Energía y Automatización y Robótica | Desarrollador Full Stack | Especialista en Automatización & IA
+Director de Carrera — Informática, Ciberseguridad y Telecomunicaciones, Energía, Automatización y Robótica  
+Desarrollador Full Stack  
+Especialista en Automatización & Inteligencia Artificial  
 
 Profesional con experiencia en desarrollo de soluciones tecnológicas para educación, automatización de procesos, analítica de datos y marketing digital.
 
 ---
 
-Especialidades
+## Especialidades
 
 ✔ Desarrollo de sistemas web  
 ✔ Automatización de procesos  
-✔ Analítica y dashboards  
-✔ Integración de APIs  
+✔ Analítica de datos y dashboards  
+✔ Integración de APIs y servicios web  
 ✔ Marketing digital orientado a conversiones  
 
 ---
 
-Tecnologías
+## Tecnologías
 
-- Python & Django
-- JavaScript & Node.js
-- React
-- SQLite / MongoDB
-- n8n & automatización
-- APIs & Web Services
-- Google Ads & Analytics
-- Data Analytics & Dashboards
+**Backend:** Python, Django, Node.js  
+**Frontend:** JavaScript, React  
+**Datos:** SQLite, MongoDB  
+**Automatización:** n8n, APIs, Web Services  
+**Analítica & Marketing:** Google Ads, Analytics, Data Dashboards  
 
 ---
 
-Proyectos Destacados
+## Proyectos Destactados
 
-🔹 MGD Coordinadores (Django)
+### 🔹 MGD Coordinadores (Django)
 Sistema web para la gestión y evaluación del desempeño de coordinadores académicos.
 
 ✔ Evaluación de desempeño  
@@ -40,10 +39,11 @@ Sistema web para la gestión y evaluación del desempeño de coordinadores acad�
 ✔ Apoyo a la toma de decisiones  
 
 ➡️ https://github.com/cmoscoso25/mgd-coordinadores
+
 ---
 
-🌎 Ubicación
-Chile 🇨🇱
+## Ubicación
+Chile 🇨🇱  
 
-📫 Contacto
+## Contacto
 cmoscosom@gmail.com
