@@ -1,12 +1,12 @@
 # 👋 Hola, soy Cristian Moscoso
 
-🎓 Director de Carrera de las áreas de Informática, Ciberseguridad y Telecomunicaciones, Energía y Automatización y Robótica | 💻 Desarrollador Full Stack | 🤖 Especialista en Automatización & IA
+Director de Carrera de las áreas de Informática, Ciberseguridad y Telecomunicaciones, Energía y Automatización y Robótica | Desarrollador Full Stack | Especialista en Automatización & IA
 
 Profesional con experiencia en desarrollo de soluciones tecnológicas para educación, automatización de procesos, analítica de datos y marketing digital.
 
 ---
 
-## 🚀 Especialidades
+Especialidades
 
 ✔ Desarrollo de sistemas web  
 ✔ Automatización de procesos  
@@ -16,7 +16,7 @@ Profesional con experiencia en desarrollo de soluciones tecnológicas para educa
 
 ---
 
-## 🧠 Tecnologías
+Tecnologías
 
 - Python & Django
 - JavaScript & Node.js
@@ -29,26 +29,26 @@ Profesional con experiencia en desarrollo de soluciones tecnológicas para educa
 
 ---
 
-## ⭐ Proyectos Destacados
+Proyectos Destacados
 
-### 🔹 Diagnóstico Empresarial con IA
+🔹 Diagnóstico Empresarial con IA
 Sistema web que analiza datos empresariales y genera reportes inteligentes.
 
-### 🔹 Dashboard de Riesgo Académico
+🔹 Dashboard de Riesgo Académico
 Plataforma que detecta estudiantes en riesgo mediante analítica de datos.
 
-### 🔹 Automatización de Reels para Instagram
+🔹 Automatización de Reels para Instagram
 Sistema automatizado con n8n para creación y publicación automática.
 
-### 🔹 Plataforma EcomCenter
+🔹 Plataforma EcomCenter
 Marketplace multisitio con gestión de tiendas y comisión automática.
 
-### 🔹 Sistema Gestión de Coordinadores
+🔹 Sistema Gestión de Coordinadores
 Aplicación Django para evaluación de desempeño académico.
 
 ---
 
-## 🌎 Ubicación
+🌎 Ubicación
 Chile 🇨🇱
 
 ## 📫 Contacto
