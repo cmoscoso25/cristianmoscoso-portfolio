@@ -51,5 +51,5 @@ Aplicación Django para evaluación de desempeño académico.
 🌎 Ubicación
 Chile 🇨🇱
 
-## 📫 Contacto
-📧 (agrega tu correo)
+📫 Contacto
+cmoscosom@gmail.com
