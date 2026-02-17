@@ -31,21 +31,15 @@ Tecnologías
 
 Proyectos Destacados
 
-🔹 Diagnóstico Empresarial con IA
-Sistema web que analiza datos empresariales y genera reportes inteligentes.
+🔹 MGD Coordinadores (Django)
+Sistema web para la gestión y evaluación del desempeño de coordinadores académicos.
 
-🔹 Dashboard de Riesgo Académico
-Plataforma que detecta estudiantes en riesgo mediante analítica de datos.
+✔ Evaluación de desempeño  
+✔ Seguimiento administrativo  
+✔ Panel de indicadores  
+✔ Apoyo a la toma de decisiones  
 
-🔹 Automatización de Reels para Instagram
-Sistema automatizado con n8n para creación y publicación automática.
-
-🔹 Plataforma EcomCenter
-Marketplace multisitio con gestión de tiendas y comisión automática.
-
-🔹 Sistema Gestión de Coordinadores
-Aplicación Django para evaluación de desempeño académico.
-
+➡️ https://github.com/cmoscoso25/mgd-coordinadores
 ---
 
 🌎 Ubicación
