@@ -1,4 +1,4 @@
-# 👋 Hola, soy Cristian Moscoso
+# Hola, soy Cristian Moscoso Muñoz
 
 Director de Carrera de las áreas de Informática, Ciberseguridad y Telecomunicaciones, Energía y Automatización y Robótica | Desarrollador Full Stack | Especialista en Automatización & IA
 
